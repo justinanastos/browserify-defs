@@ -1,0 +1,28 @@
+{
+  "name": "browserify-defs",
+  "version": "0.1.0",
+  "description": "defs transform for browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kl0tl/browserify-defs.git"
+  },
+  "keywords": [
+    "browserify",
+    "browserify-transform",
+    "defs"
+  ],
+  "author": "Cyril Sobierajewicz <sobierajewicz.cyril@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kl0tl/browserify-defs/issues"
+  },
+  "homepage": "https://github.com/Kl0tl/browserify-defs",
+  "dependencies": {
+    "through2": "~0.6.1",
+    "defs": "~1.0.0"
+  }
+}
