@@ -16,7 +16,7 @@
     "defs"
   ],
   "author": "Cyril Sobierajewicz <sobierajewicz.cyril@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Kl0tl/browserify-defs/issues"
   },
