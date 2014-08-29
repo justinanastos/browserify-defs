@@ -1,1 +1,1 @@
-#browserify-defs
+#browserify-defs [![NPM version](https://badge.fury.io/js/browserify-defs.svg)](http://badge.fury.io/js/browserify-defs) [![Dependency Status](https://gemnasium.com/Kl0tl/browserify-defs.svg)](https://gemnasium.com/Kl0tl/browserify-defs)
