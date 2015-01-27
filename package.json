@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/Kl0tl/browserify-defs",
   "dependencies": {
-    "through2": "~0.6.1",
-    "defs": "~1.0.0"
+    "through2": "0.6.3",
+    "defs": "1.0.0"
   }
 }
